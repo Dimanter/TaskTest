@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141071787421",
+    "project_id": "ivdeoi",
+    "storage_bucket": "ivdeoi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141071787421:android:7b30778822ea33c5023b74",
+        "android_client_info": {
+          "package_name": "games.play.wers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141071787421-aqtu6cvr2700lg2bih2kq2pahmurvvfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSEDRQuwFnxTcimhwvSdG3wbgksIjjrOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141071787421-aqtu6cvr2700lg2bih2kq2pahmurvvfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
